@@ -1,4 +1,3 @@
 # labswd1
 
-ciao
-
+this is a test for a programming course at H-Farm
